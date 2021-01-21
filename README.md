@@ -1,6 +1,6 @@
 # VfxPractice
 
-[Post Process Scan Effect](https://realtimevfx.com/t/death-stranding-odradek-terrain-scanner-ue4-case-study/11200)
+[Post Process Scan Effect](https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shader/art/unreal%20engine/Post-Process-Scan-Effect)
 
 [Death Stranding - Odradek Terrain Scanner - UE4 case study](https://realtimevfx.com/t/death-stranding-odradek-terrain-scanner-ue4-case-study/11200)
 
