@@ -12,5 +12,8 @@
 ## PP_DistanceFieldOutline
 ![Alt text](/Doc/images/PP_DistanceFieldOutline.jpg "PP_DistanceFieldOutline.jpg")
 
+## PP_ScanEffect
+![Alt text](/Doc/images/PP_ScanEffect.gif "PP_ScanEffect.gif")
+
 ## PP_ScanEffect4
 ![Alt text](/Doc/images/PP_ScanEffect4.gif "PP_ScanEffect4.gif")
