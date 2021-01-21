@@ -17,3 +17,8 @@
 
 ## PP_ScanEffect4
 ![Alt text](/Doc/images/PP_ScanEffect4.gif "PP_ScanEffect4.gif")
+
+## KiteDemo
+![Alt text](/Doc/images/KiteDemo_1.gif "KiteDemo_1.gif")
+
+![Alt text](/Doc/images/KiteDemo_2.gif "KiteDemo_2.gif")
